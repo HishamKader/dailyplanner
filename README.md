@@ -1,5 +1,5 @@
-#Daily planner
-dayPlanner is a simple daily schedule application built around the workday hours of 9AM - 5PM.
+#Daily Planner
+Daily Planner is a simple daily schedule application built around the workday hours of 9AM - 5PM.
 Keep track of important todos, or manage your own meeting schedules.
 
 #How to use this application
