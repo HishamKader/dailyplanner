@@ -33,13 +33,11 @@ $(document).ready(function () {
     };
     }
 
-    
     for(var i = 9; i <= 17; i++){
         $("."+i).val(localStorage[""+i]);
         console.log(localStorage[""+i]);
     }
 
-    
     $("ul").on("click", ".saveBtn", function (event) {
 
        event.preventDefault();
