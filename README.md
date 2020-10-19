@@ -5,3 +5,5 @@ Keep track of important todos, or manage your own meeting schedules.
 # How to use this application
 The current date will appear in the top section of the header.
 Enter your important schedule item into the appropriate hour timeblock and hit "save" to save your entry. The entry will stay in place even after you close the browser window!
+
+Click on link to use app https://hishamkader.github.io/rut-hw5-dailyplanner/
